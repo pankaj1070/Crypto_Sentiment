@@ -8,10 +8,12 @@ In this assignment, I applied natural language processing to explain the sentime
 The assignment is divided into 3 parts:
 
  Sentiment Analysis
+
  Natural Language Processing
+
  Named Entity Recognition
 
-1. Sentiment Analysis
+# 1. Sentiment Analysis
 
 Newsapi was used to pull the latest news articles for Bitcoin and Ethereum and from this data a DataFrame of sentiment scores for each coin was created. Below are the results:
 
@@ -29,7 +31,7 @@ A:  Both BTC and ETH had highest positive score of 0.249.
 
 
 
-2. Natural Language Processing
+# 2. Natural Language Processing
 
 Using tokenization and ngrams, the following word cloud was generated for BTC and ETH
 
@@ -39,7 +41,11 @@ Using tokenization and ngrams, the following word cloud was generated for BTC an
 
 
 
-3. Named Entity Recognition
+# 3. Named Entity Recognition
 
-In this excercies, I used NEM for BTC and ETH and visualize the text with SPACY.
+In this excercies, I used NEM for BTC and ETH and visualized the text with SPACY.
+
+![BTC_NER](Images/BTC_NER.png)
+
+![ETH_NER](Images/ETH_NER.png)
 
