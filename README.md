@@ -1,6 +1,5 @@
 # Module_12_Challenge_Crypto_Sentiment
 
-Tales from the Crypto
 
 # Background
 
@@ -34,13 +33,13 @@ A:  Both BTC and ETH had highest positive score of 0.249.
 
 Using tokenization and ngrams, the following word cloud was generated for BTC and ETH
 
-![btc_WordCloud](C:/Users/panka/NLP_Aug11/btc_WordCloud.png?raw=true "Bitcoin WordCloud")
+![btc_WordCloud](Images/btc_WordCloud.png)
 
-![eth_WordCloud](C:/Users/panka/NLP_Aug11/eth_WordCloud.png?raw=true "Ethereum WordCloud")
+![eth_WordCloud](Images/eth_WordCloud.png)
 
 
 
 3. Named Entity Recognition
 
-In this excercies, i used NEM for BTC and ETH and visualize the text with SPACY.
+In this excercies, I used NEM for BTC and ETH and visualize the text with SPACY.
 
